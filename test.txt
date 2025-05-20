@@ -1,5 +1,1 @@
 This is the first file
-user: manojdevops
-Password: Manoj@KT123
-
-https://69.62.75.41:8083
